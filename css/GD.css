@@ -1,0 +1,525 @@
+* {
+  box-sizing: border-box;
+}
+body {
+    font-size: 14px;
+}   
+.GD_01 {
+    width: 724px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 168px;
+    left: 370px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}   
+.GD_02 {
+    width: 101%;
+    height: 437px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 10300px;
+    left: -4px;
+    overflow: hidden;
+}   
+.GD_03 {
+    width: 100%;
+    height: 437px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 1px solid rgba(0,0,0,1);
+    overflow: hidden;
+}   
+.GD_04 {
+    width: 132px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 284px;
+    left: 54px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}   
+.GD_05 {
+    width: 301px;
+    height: 54px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 69px;
+    left: 465px;
+    overflow: hidden;
+}   
+.GD_06 {
+    width: 301px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}   
+.GD_07 {
+    width: 252px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 24px;
+    left: 0px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}   
+.GD_08 {
+    width: 252px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 69px;
+    left: 1461px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: right;
+}   
+.GD_09 {
+    width: 252px;
+    height: 78px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 236px;
+    left: 1461px;
+    overflow: hidden;
+}   
+.GD_10 {
+    width: 252px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: right;
+}   
+.GD_11 {
+    width: 252px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 24px;
+    left: 0px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: right;
+}   
+.GD_12 {
+    width: 101px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 48px;
+    left: 151px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: right;
+}   
+.GD_13 {
+    width: 252px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 69px;
+    left: 54px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}   
+.GD_14 {
+    width: 252px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 93px;
+    left: 54px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}   
+.GD_15 {
+    width: 160px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 117px;
+    left: 54px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}   
+.GD_16 {
+    width: 252px;
+    height: 78px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 168px;
+    left: 80px;
+    overflow: hidden;
+}   
+.GD_17 {
+    width: 252px;
+    color: rgba(0,0,0,1);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}   
+.GD_18 {
+    width: 252px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 24px;
+    left: 0px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}   
+.GD_19 {
+    width: 61px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 48px;
+    left: 0px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}   
+.GD_20 {
+    width: 100%;
+    height: 10300px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 417px;
+    left: 0px;
+    overflow: hidden;
+}
+.GD_1 {
+    width: 100%;
+    height: 1200px;
+    background: url("../images/GD_1.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+.GD_2 {
+    width: 100%;
+    height: 1200px;
+    background: url("../images/GD_2.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1200px;
+    left: 0px;
+    overflow: hidden;
+}   
+.GD_3 {
+    width: 100%;
+    height: 1200px;
+    background: url("../images/GD_3.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2400px;
+    left: 0px;
+    overflow: hidden;
+}   
+.GD_4 {
+    width: 100%;
+    height: 1200px;
+    background: url("../images/GD_4.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 3600px;
+    left: 0px;
+    overflow: hidden;
+} 
+.GD_5 {
+    width: 100%;
+    height: 1200px;
+    background: url("../images/GD_5.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 4800px;
+    left: 0px;
+    overflow: hidden;
+} 
+.GD_6 {
+    width: 100%;
+    height: 1200px;
+    background: url("../images/GD_6.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 6000px;
+    left: 0px;
+    overflow: hidden;
+} 
+.GD_7 {
+    width: 100%;
+    height: 1200px;
+    background: url("../images/GD_7.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 7200px;
+    left: 0px;
+    overflow: hidden;
+} 
+.GD_8 {
+    width: 100%;
+    height: 1200px;
+    background: url("../images/GD_8.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 8400px;
+    left: 0px;
+    overflow: hidden;
+} 
+   
+.GD_24 {
+    width: 117px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 168px;
+    left: 1285px;
+    overflow: hidden;
+}   
+.GD_25 {
+    width: 15px;
+    height: 12px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 2px;
+    left: 107px;
+    overflow: hidden;
+}   
+.GD_26 {
+    width: 15px;
+    height: 12px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}   
+.GD_27 {
+    width: 87px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    opacity: 1;
+    text-align: right;
+    text-decoration-line: underline;
+}   
+.GD_28 {
+    width: 117px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 10167px;
+    left: 1282px;
+    overflow: hidden;
+}   
+.GD_29 {
+    width: 15px;
+    height: 12px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 2px;
+    left: 102px;
+    overflow: hidden;
+}   
+.GD_30 {
+    width: 15px;
+    height: 12px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}   
+.GD_31 {
+    width: 87px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    opacity: 1;
+    text-align: right;
+    text-decoration-line: underline;
+}   
+.GD_32 {
+    width: 100%;
+    height: 90px;
+    background: rgba(255,255,255,0.8);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}   
+.GD_33 {
+    width: 80px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 36px;
+    left: 70px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    opacity: 1;
+    text-align: left;
+}   
+.GD_34 {
+    width: 268px;
+    height: 36px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 1450px;
+    overflow: hidden;
+}   
+.GD_35 {
+    width: 51px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 108px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: center;
+}   
+.GD_36 {
+    width: 69px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 199px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: center;
+}   
+.GD_37 {
+    width: 68px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: sans-serif;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: center;
+}
+a{  
+    text-decoration: none;
+    color: black;
+}   
+a:hover, a:active, a:focus {
+      color:black;
+} 
+.arrow {
+    width: 0;
+    height: 0;
+    border-top: 0px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 10px solid black;
+    transform: rotate(45deg);
+    margin-top: 1px;
+    margin-left: -5px;
+}
